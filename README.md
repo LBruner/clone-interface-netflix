@@ -2,8 +2,7 @@
 
 ## Layout do projeto concluído:
 
-https://github.com/LBruner/clone-interface-netflix/blob/202034aba881ecdf78652e0d11498aac6c74233c/img/07-06-2021.png
-
+<img src="img/07-06-2021.png"></img>
 ## 🚀 Sobre o desafio
 
 Desafio feito no Bootcamp de **HTML Web Developer**, que consiste na recriação do layout da pagina do NetFlix, envolvendo o conteúdo estudado durante o Bootcamp.
