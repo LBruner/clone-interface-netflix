@@ -2,9 +2,7 @@
 
 ## Layout do projeto concluído:
 
-![07-06-2021](F:\Users\Bruner\Documents\GitHub\Interface Netflix\clone-interface-netflix\img\07-06-2021.png)
-
-[TOC]
+https://github.com/LBruner/clone-interface-netflix/blob/202034aba881ecdf78652e0d11498aac6c74233c/img/07-06-2021.png
 
 ## 🚀 Sobre o desafio
 
